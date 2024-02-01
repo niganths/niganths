@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Niganth, Aspiring Full Stack Developer | Eager to Learn, Grow, and Contribute to Innovative Web Solutions.<br>💻 As a Full Stack Developer, I excel in both front-end and back-end technologies, crafting solutions that marry functionality with a great user experience.<br>🔍 I enjoy tackling challenges and staying up-to-date with the latest industry trends.
+👋 Hi there! I'm Niganth, Aspiring Full Stack Developer | Eager to Learn, Grow, and Contribute to Innovative Web Solutions.<br>💻 As a Full Stack Developer, I excel in both front-end and back-end technologies, crafting solutions that marry functionality with a great user experience.
 
 ### 😂 Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;width : 70%;"/>
