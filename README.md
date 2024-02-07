@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niganths&label=Profile%20views&color=0e75b6&style=flat" alt="niganths" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/im-something-of-a-developer-gif-27708399">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Ffull-stack-developer-gif-18629164&psig=AOvVaw06_jTac4YpcJCxRp0Bvhu3&ust=1707409617774000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiHktDSmYQDFQAAAAAdAAAAABAE">
 
 - 🔭 I’m currently working on **MERN Stack**
 
@@ -75,7 +75,7 @@
 ![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-[Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 
@@ -97,6 +97,7 @@
   <a href="https://github.com/niganths"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=niganths&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
+<br>
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<br>
